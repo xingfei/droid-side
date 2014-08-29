@@ -1,0 +1,22 @@
+
+#package com.example.objects
+
+@user
+long id 
+String email birth_date nick_name avatar register_time sex 
+int age
+
+@complex
+long id lv
+String title
+double dv
+int iv
+boolean bv
+user uv
+
+long[] lv_arr
+String[] title_arr
+double[] dv_arr
+int[] iv_arr
+boolean[] bv_arr
+user[] uv_arr
